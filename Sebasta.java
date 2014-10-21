@@ -1,7 +1,7 @@
 import java.io.*;
 
 
-public class Token {
+public class Sebasta {
 	
 	private static int charClass = -1;
 	private static char []lexeme = new char[100] ;
